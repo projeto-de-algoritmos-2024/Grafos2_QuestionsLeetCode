@@ -6,8 +6,8 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 18/098683  |  BRENO YURI BARBOSA GOMES |
-| 21/063176  |  JOYCE DIONIZIO DE MESQUITA |
+| 18/0098683 |  BRENO YURI BARBOSA GOMES |
+| 21/1063176  |  JOYCE DIONIZIO DE MESQUITA |
 
 ## Sobre 
 Esse projeto tem o objetivo de realizar problemas de média e alta complexidade no juíz LeetCode. Os exercícios serão resolvidos com base no conteúdo do conteúdo Grafos 2.
